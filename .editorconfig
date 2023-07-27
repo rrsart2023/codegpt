@@ -10,3 +10,11 @@ end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = false
 insert_final_newline = false
+
+# #  Ten plik EditorConfig jest używany do ustawiania konfiguracji edytora tekstu.  
+#  - Wszystkie pliki mają być formatowane z użyciem spacji jako stylu wcięć, przy szerokości wcięcia wynoszącej 4 spacje. 
+# - Znaki nowej linii powinny być zakończone znakiem LF (line feed). 
+# - Kodowanie plików powinno być UTF-8. 
+# - Nie jest wymagane usuwanie końcowych białych znaków. 
+# - Nie jest wymagane dodawanie końcowej nowej linii. 
+#  EditorConfig jest bardzo przydatnym narzędziem, które pomaga w utrzymaniu spójności formatowania kodu w projekcie. Dzięki niemu wszyscy członkowie zespołu mogą korzystać z tych samych ustawień edytora, co ułatwia współpracę i zapobiega konfliktom stylów.
